@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-metadigmwebapp-dev-95101-authRole",
+      "UnauthRoleArn": "arn:aws:iam::553977249826:role/amplify-metadigmwebapp-dev-95101-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::553977249826:role/amplify-metadigmwebapp-dev-95101-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-metadigmwebapp-dev-95101-deployment",
+      "UnauthRoleName": "amplify-metadigmwebapp-dev-95101-unauthRole",
+      "StackName": "amplify-metadigmwebapp-dev-95101",
+      "StackId": "arn:aws:cloudformation:us-east-1:553977249826:stack/amplify-metadigmwebapp-dev-95101/ec4396d0-69ab-11ed-809d-123d0d77d1cb",
+      "AmplifyAppId": "d2zqipt99c595e"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d2zqipt99c595e",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

@@ -24,8 +24,8 @@ const plans = [
   {
     name: "starter",
     title: "Starter",
-    monthlyPrice: 0,
-    yearlyPrice: 0,
+    monthlyPrice: "0",
+    yearlyPrice: "0",
     description: [
       "Free for ever",
       "Mobile / Tablet App Access",
@@ -41,8 +41,8 @@ const plans = [
     name: "lite",
     title: "Lite",
     subheader: "Recommended",
-    monthlyPrice: 189,
-    yearlyPrice: 600,
+    monthlyPrice: "189",
+    yearlyPrice: "2.268",
     description: [
       "Mobile / Tablet App Access",
       "No scan limit",
@@ -57,8 +57,8 @@ const plans = [
   {
     name: "pro",
     title: "Pro",
-    monthlyPrice: 999,
-    yearlyPrice: 10000,
+    monthlyPrice: "999",
+    yearlyPrice: "11.988",
     description: [
       "Mobile / Tablet App Access",
       "No scan limit",

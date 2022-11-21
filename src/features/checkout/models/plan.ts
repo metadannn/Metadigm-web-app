@@ -1,6 +1,6 @@
 export interface Plan {
   title: string;
   name: string;
-  price: number;
+  price: string;
   frequency: "monthly" | "yearly";
 }
