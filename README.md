@@ -28,6 +28,14 @@ Install the Amplify CLI using npm.
 npm install -g @aws-amplify/cli
 ```
 
+## Login
+
+Authenticate with AWS.
+
+```shell
+amplify configure
+```
+
 ## Deploy
 
 Install the Amplify CLI using npm.
